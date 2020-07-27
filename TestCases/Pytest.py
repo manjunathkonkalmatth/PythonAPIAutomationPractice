@@ -1,5 +1,4 @@
 import pytest
-
 from Utils.RESTServices import RESTServices
 
 
